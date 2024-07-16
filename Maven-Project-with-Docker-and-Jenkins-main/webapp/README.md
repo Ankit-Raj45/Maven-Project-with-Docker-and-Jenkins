@@ -1,8 +1,6 @@
 # Maven Project with Docker and Jenkins
 
-
-![11](https://github.com/user-attachments/assets/4bd0373d-d7f4-465b-adab-c44fc7326a84)
-
+![builddeploy](https://github.com/user-attachments/assets/ce0943e8-566a-4a94-a257-1dc3815308a3)
 
 1. Launch an EC2 instance for Docker host
 
@@ -29,7 +27,7 @@ mkdir /opt/docker
 From tomcat:9-jre9 
 
 # Maintainer
-MAINTAINER "DEVOPS with Kamlesh" 
+MAINTAINER "Ankit Raj" 
 
 # copy war file on to container 
 COPY ./webapp.war /usr/local/tomcat/webapps
@@ -76,4 +74,3 @@ D) send files or execute commands over SSH
 ```
 <docker_host_Public_IP>:8090
 ```
-![12](https://github.com/user-attachments/assets/a960058a-ea31-48f5-90b2-23a32a1900d1)
