@@ -1,8 +1,6 @@
 # Maven Project with Docker and Jenkins
  
-
-![11](https://github.com/user-attachments/assets/55bf107e-feba-46a0-84d0-ae1e30c05523)
-
+![builddeploy](https://github.com/user-attachments/assets/e0c7ce0c-cc50-4b8e-a1b3-635619e5dbf1)
 
 1. Launch an EC2 instance for Docker host
 
