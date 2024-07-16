@@ -27,7 +27,7 @@ mkdir /opt/docker
 From tomcat:9-jre9 
 
 # Maintainer
-MAINTAINER "DEVOPS with Kamlesh" 
+MAINTAINER "Ankit Raj" 
 
 # copy war file on to container 
 COPY ./webapp.war /usr/local/tomcat/webapps
