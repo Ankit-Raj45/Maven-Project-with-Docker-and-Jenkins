@@ -76,4 +76,3 @@ D) send files or execute commands over SSH
 ```
 <docker_host_Public_IP>:8081
 ```
-![1](https://github.com/kamleshrawat/Maven-Project-with-Docker-and-Jenkins/assets/108130020/25a27858-fe94-4c34-9299-6335d9636a87)
